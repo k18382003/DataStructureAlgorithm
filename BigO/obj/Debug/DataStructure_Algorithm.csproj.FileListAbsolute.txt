@@ -1,0 +1,8 @@
+D:\C#網路程式設計\DataStructure_Algorithm\DataStructure_Algorithm\bin\Debug\DataStructure_Algorithm.exe.config
+D:\C#網路程式設計\DataStructure_Algorithm\DataStructure_Algorithm\bin\Debug\DataStructure_Algorithm.exe
+D:\C#網路程式設計\DataStructure_Algorithm\DataStructure_Algorithm\bin\Debug\DataStructure_Algorithm.pdb
+D:\C#網路程式設計\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\DataStructure_Algorithm.csproj.AssemblyReference.cache
+D:\C#網路程式設計\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\DataStructure_Algorithm.csproj.SuggestedBindingRedirects.cache
+D:\C#網路程式設計\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\DataStructure_Algorithm.csproj.CoreCompileInputs.cache
+D:\C#網路程式設計\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\DataStructure_Algorithm.exe
+D:\C#網路程式設計\DataStructure_Algorithm\DataStructure_Algorithm\obj\Debug\DataStructure_Algorithm.pdb
