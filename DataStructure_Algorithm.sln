@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure_Algorithm", "DataStructure_Algorithm\DataStructure_Algorithm.csproj", "{BB5CFFF6-B30D-411C-9647-1F103CDB428C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure_Algorithm", "BigO\DataStructure_Algorithm.csproj", "{BB5CFFF6-B30D-411C-9647-1F103CDB428C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

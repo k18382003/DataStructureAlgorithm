@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 namespace DataStructure_Algorithm
 {
     // O(n(=)
-    internal class BigOn
+    internal static class BigOn
     {
-        List<int> _ListArray = new List<int>();
+        static List<int> _ListArray = new List<int>();
 
-        public void findThree()
+        public static void findThree()
         {
             createList(_ListArray, 100);
 
@@ -34,7 +34,7 @@ namespace DataStructure_Algorithm
         }
         
         // Auto generate the list by the given size 
-        public List<int> createList(List<int> input, int size)
+        public static List<int> createList(List<int> input, int size)
         {
             Random random = new Random();
             for (int i = 1; i <= size; i++)

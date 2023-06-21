@@ -10,8 +10,13 @@ namespace DataStructure_Algorithm
     {
         static void Main(string[] args)
         {
-            BigOn bigO = new BigOn();
-            bigO.findThree();
+            Console.WriteLine("O(n):");
+            BigOn.findThree();
+            Console.WriteLine("--------------------");
+            Console.WriteLine("O(n^2):");
+            BigOnSquare.printAllPairOfArray();
+            Console.WriteLine("--------------------");            
+
 
             Console.Read();
         }
