@@ -14,3 +14,11 @@ D:\C#網路程式設計\DataStructure_Algorithm\BigO\obj\Debug\DataStructure_Alg
 D:\C#網路程式設計\DataStructure_Algorithm\BigO\bin\Debug\DataStructure_Algorithm.exe.config
 D:\C#網路程式設計\DataStructure_Algorithm\BigO\bin\Debug\DataStructure_Algorithm.exe
 D:\C#網路程式設計\DataStructure_Algorithm\BigO\bin\Debug\DataStructure_Algorithm.pdb
+D:\Udemy\C#\DataStructureAlgorithm\BigO\bin\Debug\DataStructure_Algorithm.exe.config
+D:\Udemy\C#\DataStructureAlgorithm\BigO\bin\Debug\DataStructure_Algorithm.exe
+D:\Udemy\C#\DataStructureAlgorithm\BigO\bin\Debug\DataStructure_Algorithm.pdb
+D:\Udemy\C#\DataStructureAlgorithm\BigO\obj\Debug\DataStructure_Algorithm.csproj.AssemblyReference.cache
+D:\Udemy\C#\DataStructureAlgorithm\BigO\obj\Debug\DataStructure_Algorithm.csproj.SuggestedBindingRedirects.cache
+D:\Udemy\C#\DataStructureAlgorithm\BigO\obj\Debug\DataStructure_Algorithm.csproj.CoreCompileInputs.cache
+D:\Udemy\C#\DataStructureAlgorithm\BigO\obj\Debug\DataStructure_Algorithm.exe
+D:\Udemy\C#\DataStructureAlgorithm\BigO\obj\Debug\DataStructure_Algorithm.pdb
