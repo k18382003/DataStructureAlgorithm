@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array\CombinationOfPhoneNumber.cs" />
     <Compile Include="Array\ContainsDuplicate.cs" />
     <Compile Include="Array\MergeArrays.cs" />
     <Compile Include="Array\MoveZeroes.cs" />
@@ -52,6 +53,8 @@
     <Compile Include="Array\TwoSums.cs" />
     <Compile Include="BigOn.cs" />
     <Compile Include="BigOnSquare.cs" />
+    <Compile Include="HashTables\FirstRecurringCharacter.cs" />
+    <Compile Include="HashTables\ImplementingHashTable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
