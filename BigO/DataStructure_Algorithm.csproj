@@ -55,6 +55,7 @@
     <Compile Include="BigOnSquare.cs" />
     <Compile Include="HashTables\FirstRecurringCharacter.cs" />
     <Compile Include="HashTables\ImplementingHashTable.cs" />
+    <Compile Include="LinkLists\CreateLinkLists.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

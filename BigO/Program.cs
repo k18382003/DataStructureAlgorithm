@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using DataStructure_Algorithm.Array;
 using DataStructure_Algorithm.HashTables;
+using DataStructure_Algorithm.LinkLists;
 
 namespace DataStructure_Algorithm
 {
@@ -52,7 +53,13 @@ namespace DataStructure_Algorithm
             //res = myHashTable.Get("DD");
             //Console.WriteLine(res);
 
-            new FirstRecurringCharacter(new int[] { 2, 1, 3, 2 });
+            //new FirstRecurringCharacter(new int[] { 2, 1, 3, 2 });
+            var myLink = new CreateLinkLists(new int[] {1, 5, 8, 99 });
+            myLink.Append(10);
+            myLink.Prepend(0);
+            myLink.remove(2);
+            myLink.insert(2, 100);
+            myLink.PrintList();
 
             Console.Read();
         }
